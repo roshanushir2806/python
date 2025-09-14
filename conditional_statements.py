@@ -1,5 +1,5 @@
 # Core Python - Conditional Statements
-# My notes + examples + practice tasks with solutions
+# My notes + examples + practice tasks 
 
 # 1. Simple if
 print("=== Simple if ===")
@@ -89,7 +89,7 @@ else:
 
 
 # ---------------------------------------------------
-# 📝 PRACTICE TASKS WITH SOLUTIONS
+# 📝 PRACTICE TASKS 
 # ---------------------------------------------------
 
 print("\n=== Practice Task 1 ===")
